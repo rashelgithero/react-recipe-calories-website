@@ -35,7 +35,7 @@ const Nav = () => {
 
                         <input type="text" placeholder="Search" />
                     </label>
-                    <button className="px-5 py-2 rounded-full bg-[#150B2B] hidden md:block text-white md:flex items-center gap-2 hover:opacity-90 transition cursor-pointer btn">
+                    <button className="px-5 py-2 rounded-full bg-[#150B2B] hidden text-white md:flex items-center gap-2 hover:opacity-90 transition cursor-pointer btn">
 
                         {/* user icon */}
                         <svg
